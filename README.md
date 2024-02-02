@@ -10,6 +10,10 @@ Welcome to my GitHub profile!
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=009Rambo&show_icons=true&theme=radical)](https://github.com/009Rambo)
 
+## Profile Views
+
+![Profile views](https://gpvc.arturio.dev/009Rambo)
+
 ## Featured Projects
 
 - [Project 1](https://github.com/009Rambo/Web_dev_course_assignment)
