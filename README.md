@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Ramesh! 👋
 
-<!--
-**009Rambo/009Rambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Linux programming and software testing.
+- 💬 Ask me about Web Development, JavaScript, HTML,CSS, C++.
+- 📫 How to reach me: pandey.ramesh009@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=009Rambo&show_icons=true&theme=radical)](https://github.com/009Rambo)
+
+## Featured Projects
+
+- [Project 1](https://github.com/009Rambo/Web_dev_course_assignment)
+- [Project 2](https://github.com/009Rambo/Web-Software-Production-Final-Project)
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/ramesh-pandey-189a9222a/)
+
+
+
