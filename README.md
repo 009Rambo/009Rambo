@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: pandey.ramesh009@gmail.com
 
 ## Languages and Tools
-
+<div>
 <img src="https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=white" title="Java" alt="Java" width="40" height="40"/> &nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=white" title="React" alt="React" width="40" height="40"/> &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=social&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="40" height="40"/> &nbsp;
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 <img src="https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker&logoColor=white" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white" title="Git" alt="Git" width="40" height="40"/> &nbsp;
 
-
+</div>
 
 
 
