@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## Profile Views
 
-![Profile views](https://img.shields.io/github/profile-views/009Rambo)
+![](https://komarev.com/ghpvc/?username=009Rambo&color=green)
 
 
 ## Featured Projects
