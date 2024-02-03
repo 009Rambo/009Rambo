@@ -12,7 +12,8 @@ Welcome to my GitHub profile!
 
 ## Profile Views
 
-![Profile views](https://gpvc.arturio.dev/username=009Rambo)
+![Profile views](https://img.shields.io/github/profile-views/009Rambo)
+
 
 ## Featured Projects
 
