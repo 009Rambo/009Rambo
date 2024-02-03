@@ -10,6 +10,10 @@ Welcome to my GitHub profile!
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=009Rambo&show_icons=true&theme=radical)](https://github.com/009Rambo)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=009Rambo&theme=merko)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=009Rambo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=009Rambo&color=green)
