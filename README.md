@@ -7,20 +7,21 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: pandey.ramesh009@gmail.com
 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=social&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=social&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=social&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=social&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white)
+
 
 
 
