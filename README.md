@@ -19,7 +19,6 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman&logoColor=white" title="Postman" alt="Postman" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black" title="Linux" alt="Linux" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Swift-FA7343?style=social&logo=swift&logoColor=white" title="Swift" alt="Swift" width="40" height="40"/> &nbsp;
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white" title="Python" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker&logoColor=white" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white" title="Git" alt="Git" width="40" height="40"/> &nbsp;
