@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh Pandey-blue)](https://www.linkedin.com/in/ramesh-pandey-189a9222a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh-Pandey-blue)](https://www.linkedin.com/in/ramesh-pandey-189a9222a/)
 
 
 
