@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning Linux programming and software testing.
 - 💬 Ask me about Web Development, JavaScript, HTML,CSS, C++.
-- 📫 How to reach me: pandey.ramesh009@gmail.com
+- 📫 How to reach me: Jounty_009@hotmail.com | pandey.ramesh009@gmail.com
 
 ## Languages and Tools
 
